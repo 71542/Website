@@ -1,0 +1,38 @@
+li {
+    float: left;
+    list-style: none;
+    margin: 15px 20px;
+
+}
+
+a:hover {
+    color: orangered !important;
+}
+
+a:active {
+    color: yellow !important;
+}
+
+/*
+a:visited {
+color: blue !important;
+}
+*/
+
+h1 {
+    text-align: center;
+    color: green;
+    font-size: 300%;
+}
+
+h2 {
+    text-align: center;
+    color: orange;
+    font-size: 200%;
+}
+
+p {
+    text-align: center;
+    color: darkgoldenrod;
+    font-size: 150%;
+}
