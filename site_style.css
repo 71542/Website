@@ -21,18 +21,18 @@ color: blue !important;
 
 h1 {
     text-align: center;
-    color: green;
+    color: black;
     font-size: 300%;
 }
 
 h2 {
     text-align: center;
-    color: orange;
+    color: black;
     font-size: 200%;
 }
 
 p {
     text-align: center;
-    color: darkgoldenrod;
+    color: black;
     font-size: 150%;
 }
